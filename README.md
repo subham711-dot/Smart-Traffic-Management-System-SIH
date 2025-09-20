@@ -6,7 +6,10 @@
 
 > A real-time smart traffic management system developed for **Smart India Hackathon (SIH)** to reduce urban congestion using adaptive signal control, traffic prediction, and AI-based analytics.
 
-![Demo video](Prototype/20.09.2025_10.32.17_REC.mp4)
+![Demo](demo.gif)
+
+▶️ [Watch full video](demo.mp4)
+
 
 ## 🔍 Overview
 

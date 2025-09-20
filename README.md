@@ -39,6 +39,9 @@ Built during **Smart India Hackathon**, this solution aims to make city transpor
 ✅ **Data Analytics & Reporting**  
    - Visualize daily traffic trends, bottlenecks, and system performance.
 
+✅ **Cross-Platform Compatibility**
+  - The system is uniquely designed to run efficiently on both Raspberry Pi and smartphones, enabling low-cost, scalable deployment. 
+
 ---
 
 ## 🛠️ Tech Stack
